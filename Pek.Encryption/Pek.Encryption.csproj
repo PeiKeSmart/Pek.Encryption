@@ -3,7 +3,7 @@
     <TargetFrameworks>netstandard2.0;netstandard2.1;net461;net472;net8.0;net9.0</TargetFrameworks>
     <RootNamespace>Pek.Encryption</RootNamespace>
     <AssemblyTitle>加密安全组件</AssemblyTitle>
-    <Description>基于DH框架的加密安全组件</Description>
+    <Description>基于DH框架的加密安全组件。来源于https://github.com/cosmos-stack/cosmos-security</Description>
     <Company>湖北登灏科技有限公司</Company>
     <Copyright>©2020-2024 湖北登灏科技有限公司</Copyright>
     <VersionPrefix>4.00</VersionPrefix>
